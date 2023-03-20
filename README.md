@@ -1,2 +1,2 @@
 # MyClashRules
-一些自用的clash规则
+补充一些自用规则
