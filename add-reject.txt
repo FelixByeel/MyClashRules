@@ -1,4 +1,3 @@
 payload:
-    #ad
     - DOMAIN,60001544.com
     - DOMAIN,60001557.com
