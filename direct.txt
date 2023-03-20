@@ -1,4 +1,5 @@
 payload:
+    #steam
     - DOMAIN-SUFFIX,steamcontent.com,DIRECT
     - DOMAIN-SUFFIX,steamchina.com,DIRECT
     - DOMAIN,csgo.wmsj.cn,DIRECT
@@ -18,3 +19,6 @@ payload:
     - DOMAIN,steamstore-a.akamaihd.net,DIRECT
     - DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
     - DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
+    
+    #video
+    - DOMAIN,vip.ffzy-online5.com,DIRECT
