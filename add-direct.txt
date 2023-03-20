@@ -1,21 +1,24 @@
 payload:
-    - DOMAIN-SUFFIX,steamcontent.com
-    - DOMAIN-SUFFIX,steamchina.com
-    - DOMAIN,csgo.wmsj.cn
-    - DOMAIN,dota2.wmsj.cn
-    - DOMAIN,wmsjsteam.com
-    - DOMAIN,dl.steam.clngaa.com
-    - DOMAIN,dl.steam.ksyna.com
-    - DOMAIN,st.dl.bscstorage.net
-    - DOMAIN,st.dl.eccdnx.com
-    - DOMAIN,st.dl.pinyuncloud.com
-    - DOMAIN,steampipe.steamcontent.tnkjmec.com
-    - DOMAIN,steampowered.com.8686c.com
-    - DOMAIN,steamstatic.com.8686c.com
-    - DOMAIN,steambroadcast.akamaized.net
-    - DOMAIN,steamcdn-a.akamaihd.net
-    - DOMAIN,steamcommunity-a.akamaihd.net
-    - DOMAIN,steamstore-a.akamaihd.net
-    - DOMAIN,steamusercontent-a.akamaihd.net
-    - DOMAIN,steamuserimages-a.akamaihd.net
-    - DOMAIN,vip.ffzy-online5.com
+    #steam
+    - '+.steamcontent.com'
+    - '+.steamchina.com'
+    - '+.csgo.wmsj.cn'
+    - '+.dota2.wmsj.cn'
+    - '+.wmsjsteam.com'
+    - '+.dl.steam.clngaa.com'
+    - '+.dl.steam.ksyna.com'
+    - '+.st.dl.bscstorage.net'
+    - '+.st.dl.eccdnx.com'
+    - '+.st.dl.pinyuncloud.com'
+    - '+.steampipe.steamcontent.tnkjmec.com'
+    - '+.steampowered.com.8686c.com'
+    - '+.steamstatic.com.8686c.com'
+    - '+.steambroadcast.akamaized.net'
+    - '+.steamcdn-a.akamaihd.net'
+    - '+.steamcommunity-a.akamaihd.net'
+    - '+.steamstore-a.akamaihd.net'
+    - '+.steamusercontent-a.akamaihd.net'
+    - '+.steamuserimages-a.akamaihd.net'
+    
+    #video
+    - '+.vip.ffzy-online5.com'
