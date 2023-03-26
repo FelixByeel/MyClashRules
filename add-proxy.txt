@@ -1,3 +1,2 @@
 payload:
-    - 'www.bing.com'
-    - 'edgeservices.bing.com'
+    - '+.bing.com'
