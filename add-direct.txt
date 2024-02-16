@@ -24,4 +24,3 @@ payload:
     - '+.vip.ffzy-online5.com'
     - '+.vip.ffzy-play10.com'
     - '+.pstatp.com'
-    - 'v91.sxzyhuij.com'
