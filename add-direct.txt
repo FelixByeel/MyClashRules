@@ -25,3 +25,4 @@ payload:
     - '+.vip.ffzy-play10.com'
     - '+.pstatp.com'
     - 'dmfilm.site'
+    - 'damiq.cc'
