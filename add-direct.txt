@@ -19,7 +19,15 @@ payload:
     - '+.steamstore-a.akamaihd.net'
     - '+.steamusercontent-a.akamaihd.net'
     - '+.steamuserimages-a.akamaihd.net'
-    
+    - '+.steamserver.net'
+    - '+.aliyuncs.com'
+
+    #other
+    - '+.beijing-time.org'
+    - '+.qianask.com'
+    - '+.9dmsgame.net'
+    - '+.cgw2.com'
+
     #video
     - '+.vip.ffzy-online5.com'
     - '+.vip.ffzy-play10.com'
